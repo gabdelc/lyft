@@ -2,11 +2,11 @@
  
 
 body{
-    background-image:url(../image/img-4.png);
+    background-image:url(../img/fondo1.png);
     
 }
 body{
-    background: url(../image/img-4.png) center center;
+    background: url(../img/fondo1.png) center center;
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
