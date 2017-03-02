@@ -33,7 +33,7 @@
     background: rebeccapurple;
     color: white;
     font-weight: bold;
-    padding: 20px 0;
+    padding: 3% 0;
     border-radius: 5%;
 }
 
@@ -43,7 +43,6 @@
     left: 5%;
     bottom: 10%;
     font-weight: bold;
-    padding: 20px 0;
     border-radius: 5%;
     background: rgba(255, 255, 255, 0.68);
     
